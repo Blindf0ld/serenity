@@ -1,0 +1,4 @@
+Logining to mail box
+In order to write an email
+As a user
+I want to be able to login to mail service
